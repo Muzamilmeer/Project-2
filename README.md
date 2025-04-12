@@ -42,9 +42,10 @@
     .hero-text p {
       color: #ccc;
     }
-    . radius img {
-      width: 200px;
-      border-radius: 5px;
+    . logo {
+      width: 120px;
+      height: auto;
+      border-radius: 50%; /* circle logo */
     }
     .section {
       padding: 5px;
