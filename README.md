@@ -45,10 +45,10 @@
     }
     .hero img {
       width: 300px;
-      border-radius: 10px;
+      border-radius: 5px;
     }
     .section {
-      padding: 40px;
+      padding: 5px;
       background: #0b0c2a;
     }
     .section h3 {
