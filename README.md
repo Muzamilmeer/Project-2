@@ -1,5 +1,4 @@
-# Project-2
-<!DOCTYPE html><html lang="en">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -44,7 +43,7 @@
       color: #ccc;
     }
     .hero img {
-      width: 300px;
+      width: 200px;
       border-radius: 5px;
     }
     .section {
@@ -149,4 +148,4 @@
     <p>&copy; 2025 Muzamil. All rights reserved.</p>
   </footer>
 </body>
-</html>
+
