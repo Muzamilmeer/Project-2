@@ -110,8 +110,7 @@
       <h2>Hey! I'm Muzamil</h2>
       <p>I am a Front-End Developer passionate about UI/UX design and web development.</p>
     </div>
-    <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744384921/IMG_20250411_202120_wx6x6n.png" alt="Muzamil photo">
-  </section>  <section class="section" id="projects">
+  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1744384921/IMG_20250411_202120_wx6x6n.png" alt="My Logo" class="logo">
     <h3>My Recent Projects</h3>
     <div class="projects">
       <div class="card">
