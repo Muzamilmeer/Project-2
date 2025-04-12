@@ -42,7 +42,7 @@
     .hero-text p {
       color: #ccc;
     }
-    .hero img {
+    . radius img {
       width: 200px;
       border-radius: 5px;
     }
